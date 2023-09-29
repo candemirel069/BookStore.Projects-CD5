@@ -1,0 +1,9 @@
+Kitap Listesinde
+
+Adý
+Yazarýn (tam ad)
+Çevirmeni (tam adý)
+Kategori 
+
+
+-ListService
